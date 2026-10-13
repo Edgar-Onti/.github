@@ -1,4 +1,4 @@
-# Edgar Ontiveros
+# EO Technologies
 
 Freelance software and machine learning projects by [Edgar Ontiveros](https://github.com/Edgar-Ontiveros), physics engineer and developer based in Chihuahua, Mexico.
 
